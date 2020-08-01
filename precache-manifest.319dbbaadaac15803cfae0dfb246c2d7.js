@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "88ff5db0ba91dc858ab4f9db6cd22870",
+    "revision": "5d22cd8a5ee939af475fe9d58d36c25c",
     "url": "/ashwin19971/college-web.git/index.html"
   },
   {
-    "revision": "817dfdf19a1b46556c23",
+    "revision": "f2a6f253d47f24ace316",
     "url": "/ashwin19971/college-web.git/static/css/main.b4a5faa8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ashwin19971/college-web.git/static/js/2.b86c569c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "817dfdf19a1b46556c23",
-    "url": "/ashwin19971/college-web.git/static/js/main.848cb31f.chunk.js"
+    "revision": "f2a6f253d47f24ace316",
+    "url": "/ashwin19971/college-web.git/static/js/main.af757ed3.chunk.js"
   },
   {
     "revision": "d540a6d753c6a1c9b2e7",
