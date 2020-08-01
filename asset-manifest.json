@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/ashwin19971/college-web.git/static/css/main.b4a5faa8.chunk.css",
-    "main.js": "/ashwin19971/college-web.git/static/js/main.af757ed3.chunk.js",
-    "main.js.map": "/ashwin19971/college-web.git/static/js/main.af757ed3.chunk.js.map",
+    "main.css": "/ashwin19971/college-web.git/static/css/main.62f768a9.chunk.css",
+    "main.js": "/ashwin19971/college-web.git/static/js/main.e274291c.chunk.js",
+    "main.js.map": "/ashwin19971/college-web.git/static/js/main.e274291c.chunk.js.map",
     "runtime-main.js": "/ashwin19971/college-web.git/static/js/runtime-main.f5f7f764.js",
     "runtime-main.js.map": "/ashwin19971/college-web.git/static/js/runtime-main.f5f7f764.js.map",
-    "static/js/2.b86c569c.chunk.js": "/ashwin19971/college-web.git/static/js/2.b86c569c.chunk.js",
-    "static/js/2.b86c569c.chunk.js.map": "/ashwin19971/college-web.git/static/js/2.b86c569c.chunk.js.map",
+    "static/js/2.1da4deb7.chunk.js": "/ashwin19971/college-web.git/static/js/2.1da4deb7.chunk.js",
+    "static/js/2.1da4deb7.chunk.js.map": "/ashwin19971/college-web.git/static/js/2.1da4deb7.chunk.js.map",
     "index.html": "/ashwin19971/college-web.git/index.html",
-    "precache-manifest.319dbbaadaac15803cfae0dfb246c2d7.js": "/ashwin19971/college-web.git/precache-manifest.319dbbaadaac15803cfae0dfb246c2d7.js",
+    "precache-manifest.4dc1d4b9e009ff047283d985b01508cf.js": "/ashwin19971/college-web.git/precache-manifest.4dc1d4b9e009ff047283d985b01508cf.js",
     "service-worker.js": "/ashwin19971/college-web.git/service-worker.js",
-    "static/css/main.b4a5faa8.chunk.css.map": "/ashwin19971/college-web.git/static/css/main.b4a5faa8.chunk.css.map",
-    "static/js/2.b86c569c.chunk.js.LICENSE.txt": "/ashwin19971/college-web.git/static/js/2.b86c569c.chunk.js.LICENSE.txt",
+    "static/css/main.62f768a9.chunk.css.map": "/ashwin19971/college-web.git/static/css/main.62f768a9.chunk.css.map",
+    "static/js/2.1da4deb7.chunk.js.LICENSE.txt": "/ashwin19971/college-web.git/static/js/2.1da4deb7.chunk.js.LICENSE.txt",
+    "static/media/college_01.jpg": "/ashwin19971/college-web.git/static/media/college_01.8793ec0e.jpg",
+    "static/media/college_02.jpg": "/ashwin19971/college-web.git/static/media/college_02.619ee97e.jpg",
     "static/media/fontello.css": "/ashwin19971/college-web.git/static/media/fontello.ef01032c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.f5f7f764.js",
-    "static/js/2.b86c569c.chunk.js",
-    "static/css/main.b4a5faa8.chunk.css",
-    "static/js/main.af757ed3.chunk.js"
+    "static/js/2.1da4deb7.chunk.js",
+    "static/css/main.62f768a9.chunk.css",
+    "static/js/main.e274291c.chunk.js"
   ]
 }
