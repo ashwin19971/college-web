@@ -161,6 +161,7 @@
         margin-left: 9px;
         margin-top: 8px;
         margin-bottom: 5px;
+        margin-right: 9px;
     }
 }
 
@@ -249,6 +250,9 @@
         padding-left: 9px;
         margin-bottom: 0px;
     }
+    @media only screen and (max-width:375px){
+        max-width: 200px;
+    }
 }
 
 .college-original-fees-wrapper {
@@ -320,6 +324,7 @@
         margin-right: 13px;
         color: #444444;
         display: inline-block;
+        display: block;
         font-family: mediumfont;
     }
     @media only screen and (max-width:425px){
