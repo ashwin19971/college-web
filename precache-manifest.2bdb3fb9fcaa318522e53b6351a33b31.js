@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8a874a298f4cef4f6b8db86623d332f5",
+    "revision": "ba922fa33c9e39521901b854a5b506f9",
     "url": "/college-web/index.html"
   },
   {
-    "revision": "c2d16cb3e114f1b1b890",
-    "url": "/college-web/static/css/main.13369c38.chunk.css"
+    "revision": "3718240afb8e40a034fc",
+    "url": "/college-web/static/css/main.e9b93a0e.chunk.css"
   },
   {
     "revision": "68e00a372205c202076b",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/college-web/static/js/2.1da4deb7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c2d16cb3e114f1b1b890",
+    "revision": "3718240afb8e40a034fc",
     "url": "/college-web/static/js/main.11f86920.chunk.js"
   },
   {
