@@ -1,5 +1,8 @@
 #page-wrapper {
     padding: 50px 50px 80px;
+    @media only screen and (max-width:425px){
+        padding: 20px 20px 50px;
+    }
 }
 
 .page-title {
@@ -9,6 +12,9 @@
     font-family: mediumfont;
     margin: 0px;
     margin-bottom: 70px;
+    @media only screen and (max-width:425px){
+        margin-bottom: 40px;
+    }
 }
 
 .college-list-wrapper {

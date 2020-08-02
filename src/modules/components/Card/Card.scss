@@ -9,6 +9,9 @@
         width: 100%;
         margin-right: 0px;
     }
+    @media only screen and (max-width:425px){
+        margin-bottom: 45px;
+    }
 }
 
 .card-college-img-wrapper {
@@ -47,6 +50,10 @@
         &:first-of-type {
             margin-left: 14px;
             margin-bottom: 15px;
+            @media only screen and (max-width:425px){
+                margin-left: 7px;
+                margin-bottom: 7px;
+            }
         }
         &:last-of-type {
             margin-right: 0px;
@@ -62,6 +69,12 @@
         padding-right: 14px;
         padding-top: 10px;
         float: right;
+        @media only screen and (max-width:425px){
+            float: unset;
+            padding-top: 0px;
+            margin-left: 14px;
+            margin-bottom: 14px;
+        }
     }
 }
 
@@ -88,6 +101,9 @@
     .rating b {
         font-family: boldfont;
         font-size: 18px;
+    }
+    @media only screen and (max-width:425px){
+        right: 7px;
     }
 }
 
@@ -141,6 +157,11 @@
         font-size: 18px;
         display: inline-block;
     }
+    @media only screen and (max-width:425px){
+        margin-left: 9px;
+        margin-top: 8px;
+        margin-bottom: 5px;
+    }
 }
 
 .college-nearest-place-wrapper {
@@ -162,7 +183,15 @@
         }
         &:last-of-type {
             color: #adadad; 
+            @media only screen and (max-width:425px){
+                border-left: none;
+                padding-left: 0px;
+            }
         }
+    }
+    @media only screen and (max-width:425px){
+        margin-left: 9px;
+        margin-bottom: 7px;
     }
 }
 
@@ -180,6 +209,10 @@
     }
     b {
         color: #444444;
+    }
+    @media only screen and (max-width:425px){
+        margin-left: 9px;
+        margin-bottom: 0px;
     }
 }
 
@@ -212,6 +245,10 @@
     .price-color {
         color: #4bb89e;
     }
+    @media only screen and (max-width:425px){
+        padding-left: 9px;
+        margin-bottom: 0px;
+    }
 }
 
 .college-original-fees-wrapper {
@@ -231,7 +268,7 @@
         font-family: mediumfont;
         color: white;
         display: inline-block;
-        margin-right: 20px;
+        margin-right: 13px;
         padding-right: 4px;
         .tl {
             position: absolute;
@@ -274,16 +311,22 @@
         font-family: boldfont;
         color: #dd1c26;
         font-size: 26px;
-        margin-right: 15px;
+        margin-right: 12px;
         display: inline-block;
     }
     .fee-cycle {
         font-size: 11px;
         margin: 0px;
-        margin-right: 15px;
+        margin-right: 13px;
         color: #444444;
         display: inline-block;
         font-family: mediumfont;
+    }
+    @media only screen and (max-width:425px){
+        width: 100%;
+        text-align: left;
+        margin-left: 9px;
+        margin-bottom: 10px;
     }
 }
 
@@ -317,5 +360,10 @@
                 display: none;
             }
         }
+    }
+    @media only screen and (max-width:425px){
+        float: left;
+        margin-left: 9px;
+        margin-bottom: 9px;
     }
 }
