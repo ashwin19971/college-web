@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/college-web/static/css/main.ac65ff0c.chunk.css",
+    "main.js": "/college-web/static/js/main.e274291c.chunk.js",
+    "main.js.map": "/college-web/static/js/main.e274291c.chunk.js.map",
+    "runtime-main.js": "/college-web/static/js/runtime-main.830634b5.js",
+    "runtime-main.js.map": "/college-web/static/js/runtime-main.830634b5.js.map",
+    "static/js/2.1da4deb7.chunk.js": "/college-web/static/js/2.1da4deb7.chunk.js",
+    "static/js/2.1da4deb7.chunk.js.map": "/college-web/static/js/2.1da4deb7.chunk.js.map",
+    "index.html": "/college-web/index.html",
+    "precache-manifest.aee3b090dfd364cbc2b2b4226b59165f.js": "/college-web/precache-manifest.aee3b090dfd364cbc2b2b4226b59165f.js",
+    "service-worker.js": "/college-web/service-worker.js",
+    "static/css/main.ac65ff0c.chunk.css.map": "/college-web/static/css/main.ac65ff0c.chunk.css.map",
+    "static/js/2.1da4deb7.chunk.js.LICENSE.txt": "/college-web/static/js/2.1da4deb7.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/college-web/static/media/DINPro-Medium.0888425a.ttf",
+    "static/media/college_01.jpg": "/college-web/static/media/college_01.8793ec0e.jpg",
+    "static/media/college_02.jpg": "/college-web/static/media/college_02.619ee97e.jpg",
+    "static/media/fontello.css": "/college-web/static/media/fontello.ef01032c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.830634b5.js",
+    "static/js/2.1da4deb7.chunk.js",
+    "static/css/main.ac65ff0c.chunk.css",
+    "static/js/main.e274291c.chunk.js"
+  ]
+}

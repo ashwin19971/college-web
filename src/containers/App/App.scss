@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "blackfont";
+  src: url("../../assets/font/DINPro-Black.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "boldfont";
+  src: url("../../assets/font/DINPro-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "lightfont";
+  src: url("../../assets/font/DINPro-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "mediumfont";
+  src: url("../../assets/font/DINPro-Medium.ttf") format("truetype");
+}
+
+body {
+  margin: 0 auto;
+  font-family: Nunito Sans;
+  max-width: 1440px;
+  color: black;
+  transition: color .25s ease;
+}
